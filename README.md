@@ -13,7 +13,7 @@ A clean & modern theme with a handful of theme-components included to enhance yo
 **Categories Page**
 ![image|690x427, 75%](https://d11a6trkgmumsb.cloudfront.net/original/3X/b/d/bdb109def295c9954125124b9fc33be49d12e4f2.png)
 
-This theme includes a handful of components to enhance your forum as well. 
+This theme includes a handful of components to enhance your forum as well.
 - Dark Light Scheme Toggle
 - Clickable Topics
 - Discourse Loading Slider
@@ -22,12 +22,12 @@ This theme includes a handful of components to enhance your forum as well.
 
 > :exclamation: Please read through these tips upon installation, as there are a couple of settings that **NEED TO BE ENABLED** for this to theme to render properly.
 
---- 
+---
 # Tips
 ### Dark Light Scheme Toggle
 ![image|424x500, 50%](https://d11a6trkgmumsb.cloudfront.net/original/3X/1/e/1e498e5d1f26f6e46d09d48eabf7c7b6d291cd26.png)
 
-For this to work properly, at least 2 color scheme choices need to be enabled in your `https://discourse.jordanvidrine.com/admin/customize/colors` area. At least two colors need to have `color scheme can be selected by users` enabled. 
+For this to work properly, at least 2 color scheme choices need to be enabled in your `https://discourse.jordanvidrine.com/admin/customize/colors` area. At least two colors need to have `color scheme can be selected by users` enabled.
 
 ![image|690x207, 50%](https://d11a6trkgmumsb.cloudfront.net/original/3X/b/7/b70d149b335128a5f71914db3f703def1f48376b.png)
 
@@ -36,7 +36,7 @@ Once this is done, users should be able to choose between two color schemes as t
 ![image|689x338, 50%](https://d11a6trkgmumsb.cloudfront.net/original/3X/1/8/184e79ce3851b9feb965117b68a97e5e7de00b93.png)
 
 ___
-## Discourse Search Banner 
+## Discourse Search Banner
 In the options for the `discourse-search-banner` theme component, the `plugin-outlet` options needs to be set to **BELOW-SITE-HEADER** for this theme to render properly.
 
 ![image|690x75, 75%](https://d11a6trkgmumsb.cloudfront.net/original/3X/a/c/acb30097e038fcdb3b2d77043237f46328ed8dd5.png)
@@ -49,13 +49,12 @@ This theme component requires your categories to use the **CATEGORY BOXES WITH S
 This theme component also allows the forum admin to organize their category page with header titles, and choose which categories appear under each header. To keep things simple, I have only allowed up to 5 headings to be used. **If no categories + heading settings are chosen, all categories will render as they do above, this is the default rendering option.**
 ___
 
-Feel free to post any issues here :grinning_face_with_smiling_eyes: 
+Feel free to post any issues here :grinning_face_with_smiling_eyes:
 
 I hope you enjoy!
 
 ||||
 |-|-|-|
-| :eyeglasses:|**Preview**| https://discourse.jordanvidrine.com/ |
-| :hammer_and_wrench:|**Repository**| https://github.com/discourse/discourse-air.git |
+| :hammer_and_wrench:|**Repository**| https://github.com/davidbickley/wabbit_discourse |
 | :question:|**Install Guide**|[How to install a theme or theme component](https://meta.discourse.org/t/how-do-i-install-a-theme-or-theme-component/63682)|
 | :open_book:|**New to Discourse Themes?**| [Beginner’s guide to using Discourse Themes](https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966)
