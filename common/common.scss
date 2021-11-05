@@ -219,7 +219,7 @@ html {
     left: 0;
     height: 100vh;
     width: 100vw;
-    background: linear-gradient(90deg, var(--tertiary-hover) 0%, var(--tertiary) 100%); 
+    background: linear-gradient(90deg, var(--tertiary-hover) 0%, var(--tertiary) 100%);
     clip-path: ellipse(148% 70% at 91% -14%);
   }
 }
@@ -422,8 +422,8 @@ td.num.views, th.num.views {
       }
     }
     .posts-map, .num.age.activity {
-      a { 
-        padding: 0 
+      a {
+        padding: 0
       }
     }
     .posts-map {
@@ -475,4 +475,9 @@ td.num.views, th.num.views {
     position: fixed;
     z-index: 0;
   }
+}
+/* Wabbit Customizations */
+
+.menu-panel.drop-down .category-wabbit-edu {
+  display: none;
 }
